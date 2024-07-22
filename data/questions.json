@@ -1,0 +1,801 @@
+{
+  "movie": [
+    {
+        "question": "Who composed the soundtrack for the movie 'The Lion King'?",
+        "options": [
+          "Hans Zimmer",
+          "John Williams",
+          "Alan Menken",
+          "Randy Newman"
+        ],
+        "correctOption": 0,
+        "points": 20
+      },
+      {
+        "question": "Which film features the iconic score composed by John Williams, known as the 'Imperial March'?",
+        "options": [
+          "Star Wars: Episode IV - A New Hope",
+          "Star Wars: Episode V - The Empire Strikes Back",
+          "Star Wars: Episode VI - Return of the Jedi",
+          "Star Wars: Episode VII - The Force Awakens"
+        ],
+        "correctOption": 1,
+        "points": 20
+      },
+      {
+        "question": "Who composed the soundtrack for the film 'Jurassic Park'?",
+        "options": [
+          "Hans Zimmer",
+          "John Williams",
+          "Ennio Morricone",
+          "James Horner"
+        ],
+        "correctOption": 1,
+        "points": 20
+      },
+      {
+        "question": "Which movie features the song 'My Heart Will Go On' by Celine Dion?",
+        "options": [
+          "Titanic",
+          "The Shawshank Redemption",
+          "Forrest Gump",
+          "Braveheart"
+        ],
+        "correctOption": 0,
+        "points": 20
+      },
+      {
+        "question": "Who composed the score for the film 'The Lord of the Rings: The Two Towers'?",
+        "options": [
+          "Hans Zimmer",
+          "John Williams",
+          "Howard Shore",
+          "Alan Silvestri"
+        ],
+        "correctOption": 2,
+        "points": 20
+      },
+      {
+        "question": "Which film features the song 'Eye of the Tiger' by Survivor?",
+        "options": [
+          "Rocky",
+          "Top Gun",
+          "Dirty Dancing",
+          "The Karate Kid"
+        ],
+        "correctOption": 0,
+        "points": 20
+      },
+      {
+        "question": "Who composed the soundtrack for the film 'Inception'?",
+        "options": [
+          "Hans Zimmer",
+          "John Williams",
+          "Ennio Morricone",
+          "James Horner"
+        ],
+        "correctOption": 0,
+        "points": 20
+      },
+      {
+        "question": "Which movie features the iconic song 'Don't You (Forget About Me)' by Simple Minds?",
+        "options": [
+          "The Breakfast Club",
+          "Ferris Bueller's Day Off",
+          "Sixteen Candles",
+          "Pretty in Pink"
+        ],
+        "correctOption": 0,
+        "points": 20
+      },
+      {
+        "question": "Who composed the score for the film 'Pirates of the Caribbean: The Curse of the Black Pearl'?",
+        "options": [
+          "Hans Zimmer",
+          "John Williams",
+          "Howard Shore",
+          "Alan Silvestri"
+        ],
+        "correctOption": 0,
+        "points": 20
+      },
+      {
+        "question": "Which film features the iconic score composed by Ennio Morricone, known as 'The Ecstasy of Gold'?",
+        "options": [
+          "The Good, the Bad and the Ugly",
+          "Once Upon a Time in the West",
+          "A Fistful of Dollars",
+          "For a Few Dollars More"
+        ],
+        "correctOption": 0,
+        "points": 20
+      }
+    ,
+    {
+      "question": "Who directed the 1994 film 'Pulp Fiction'?",
+      "options": [
+        "Quentin Tarantino",
+        "Martin Scorsese",
+        "Steven Spielberg",
+        "Christopher Nolan"
+      ],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "question": "Which film won the Academy Award for Best Picture in 2016?",
+      "options": ["La La Land", "Moonlight", "The Revenant", "Spotlight"],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "question": "In the movie 'The Godfather', who played the role of Michael Corleone?",
+      "options": ["Marlon Brando", "Al Pacino", "Robert De Niro", "Joe Pesci"],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "question": "Which actor won an Oscar for their performance in the film 'The Revenant'?",
+      "options": [
+        "Leonardo DiCaprio",
+        "Christian Bale",
+        "Brad Pitt",
+        "Tom Hardy"
+      ],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "question": "What is the highest-grossing film of all time (unadjusted for inflation)?",
+      "options": [
+        "Avatar",
+        "Avengers: Endgame",
+        "Titanic",
+        "Star Wars: The Force Awakens"
+      ],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "question": "Who directed the film 'The Shawshank Redemption'?",
+      "options": [
+        "Steven Spielberg",
+        "Christopher Nolan",
+        "Martin Scorsese",
+        "Frank Darabont"
+      ],
+      "correctOption": 3,
+      "points": 20
+    },
+    {
+      "question": "Which actress won an Oscar for her role in the movie 'Black Swan'?",
+      "options": [
+        "Natalie Portman",
+        "Scarlett Johansson",
+        "Emma Stone",
+        "Anne Hathaway"
+      ],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "question": "What is the name of the fictional kingdom in the 'Lord of the Rings' film trilogy?",
+      "options": ["Gondor", "Rivendell", "Mordor", "Middle-earth"],
+      "correctOption": 3,
+      "points": 20
+    },
+    {
+      "question": "Who played the character of Neo in the film 'The Matrix'?",
+      "options": ["Keanu Reeves", "Brad Pitt", "Tom Cruise", "Johnny Depp"],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "question": "Which film won the Academy Award for Best Animated Feature in 2020?",
+      "options": [
+        "Toy Story 4",
+        "Frozen II",
+        "Spider-Man: Into the Spider-Verse",
+        "Soul"
+      ],
+      "correctOption": 3,
+      "points": 20
+    },
+    {
+      "question": "Who directed the film 'Inception'?",
+      "options": [
+        "Christopher Nolan",
+        "Quentin Tarantino",
+        "David Fincher",
+        "Martin Scorsese"
+      ],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "question": "In the film 'Forrest Gump', what is Forrest's favorite hobby?",
+      "options": ["Fishing", "Running", "Ping Pong", "Chess"],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "question": "Which actor portrayed the character of Joker in the 2019 film?",
+      "options": [
+        "Heath Ledger",
+        "Jack Nicholson",
+        "Joaquin Phoenix",
+        "Jared Leto"
+      ],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "question": "What is the name of the protagonist in the 'Rocky' film series?",
+      "options": [
+        "Rocky Balboa",
+        "Tony Stark",
+        "Luke Skywalker",
+        "Indiana Jones"
+      ],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "question": "Which film marked the directorial debut of Jordan Peele?",
+      "options": ["Us", "Get Out", "Ma", "The Invisible Man"],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "question": "In the film 'The Dark Knight', who played the role of Batman?",
+      "options": [
+        "Christian Bale",
+        "Robert Downey Jr.",
+        "Hugh Jackman",
+        "Ben Affleck"
+      ],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "question": "Which film won the Academy Award for Best Picture in 2008?",
+      "options": [
+        "No Country for Old Men",
+        "Slumdog Millionaire",
+        "There Will Be Blood",
+        "The Departed"
+      ],
+      "correctOption": 3,
+      "points": 20
+    },
+    {
+      "question": "Who directed the film 'The Grand Budapest Hotel'?",
+      "options": [
+        "Wes Anderson",
+        "Quentin Tarantino",
+        "Tim Burton",
+        "Spike Jonze"
+      ],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "question": "Which actor starred as the titular character in the 'Harry Potter' film series?",
+      "options": [
+        "Daniel Radcliffe",
+        "Elijah Wood",
+        "Rupert Grint",
+        "Tom Felton"
+      ],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "question": "What is the name of the spaceship in the movie 'Alien'?",
+      "options": [
+        "USS Enterprise",
+        "Nostromo",
+        "Millennium Falcon",
+        "Serenity"
+      ],
+      "correctOption": 1,
+      "points": 20
+    }
+  ],
+  "football": [
+    {
+      "question": "Which team won the FIFA World Cup in 2018?",
+      "options": ["Brazil", "Germany", "France", "Argentina"],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "question": "Who is the all-time top scorer in FIFA World Cup history?",
+      "options": [
+        "Pele",
+        "Lionel Messi",
+        "Cristiano Ronaldo",
+        "Miroslav Klose"
+      ],
+      "correctOption": 3,
+      "points": 20
+    },
+    {
+      "question": "Which country has won the most FIFA World Cup titles?",
+      "options": ["Brazil", "Italy", "Germany", "Argentina"],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "question": "In which year was the first FIFA World Cup held?",
+      "options": ["1930", "1950", "1942", "1926"],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "question": "Who won the UEFA Champions League in 2020?",
+      "options": ["Bayern Munich", "Real Madrid", "Liverpool", "Barcelona"],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "question": "Who won the UEFA European Championship in 2020?",
+      "options": ["Italy", "Portugal", "France", "England"],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "question": "Which player has won the most Ballon d'Or awards?",
+      "options": [
+        "Cristiano Ronaldo",
+        "Lionel Messi",
+        "Michel Platini",
+        "Johan Cruyff"
+      ],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "question": "Who is the coach of the Argentina national football team?",
+      "options": [
+        "Pep Guardiola",
+        "Diego Simeone",
+        "Jürgen Klopp",
+        "Lionel Scaloni"
+      ],
+      "correctOption": 3,
+      "points": 20
+    },
+    {
+      "question": "Which player has scored the most goals in a single FIFA World Cup tournament?",
+      "options": ["Pele", "Miroslav Klose", "Just Fontaine", "Gerd Müller"],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "question": "Who is known as the 'Hand of God' in football history?",
+      "options": ["Diego Maradona", "Pelé", "Johan Cruyff", "Zinedine Zidane"],
+      "correctOption": 0,
+      "points": 20
+    },
+
+    {
+      "question": "Who won the Copa America in 2021?",
+      "options": ["Argentina", "Brazil", "Colombia", "Uruguay"],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "question": "Which player has won the most FIFA World Cup Golden Boots?",
+      "options": [
+        "Miroslav Klose",
+        "Gary Lineker",
+        "Thomas Müller",
+        "James Rodríguez"
+      ],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "question": "Which club has won the most UEFA Champions League titles?",
+      "options": ["Real Madrid", "Bayern Munich", "Barcelona", "Liverpool"],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "question": "Who is the all-time top scorer of the English Premier League?",
+      "options": [
+        "Wayne Rooney",
+        "Alan Shearer",
+        "Thierry Henry",
+        "Sergio Agüero"
+      ],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "question": "Which country won the FIFA World Cup in 2014?",
+      "options": ["Argentina", "Germany", "Brazil", "Spain"],
+      "correctOption": 1,
+      "points": 20
+    },
+
+    {
+      "question": "Which player has won the most UEFA Champions League titles?",
+      "options": [
+        "Cristiano Ronaldo",
+        "Lionel Messi",
+        "Sergio Ramos",
+        "Dani Alves"
+      ],
+      "correctOption": 3,
+      "points": 20
+    },
+    {
+      "question": "Who is the manager of Manchester City FC?",
+      "options": [
+        "Jurgen Klopp",
+        "Pep Guardiola",
+        "Thomas Tuchel",
+        "Diego Simeone"
+      ],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "question": "Which country has never won the FIFA World Cup?",
+      "options": ["Netherlands", "Spain", "Portugal", "Belgium"],
+      "correctOption": 3,
+      "points": 20
+    },
+    {
+      "question": "Who is the captain of the Argentina national football team?",
+      "options": [
+        "Lionel Messi",
+        "Sergio Aguero",
+        "Paulo Dybala",
+        "Gonzalo Higuain"
+      ],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "question": "Which player has won the most FIFA Ballon d'Or awards?",
+      "options": [
+        "Cristiano Ronaldo",
+        "Lionel Messi",
+        "Michel Platini",
+        "Johan Cruyff"
+      ],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "question": "Who won the FIFA Women's World Cup in 2019?",
+      "options": ["United States", "Germany", "France", "Brazil"],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "question": "Which player is known as the 'King of Assists'?",
+      "options": [
+        "Kevin De Bruyne",
+        "Lionel Messi",
+        "Neymar Jr.",
+        "Andres Iniesta"
+      ],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "question": "Who is the current manager of the Brazil national football team?",
+      "options": [
+        "Tite",
+        "Luiz Felipe Scolari",
+        "Carlos Queiroz",
+        "Jurgen Klinsmann"
+      ],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "question": "Which country has won the most Copa America titles?",
+      "options": ["Brazil", "Argentina", "Uruguay", "Chile"],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "question": "Who won the UEFA European Championship in 2016?",
+      "options": ["Portugal", "France", "Germany", "Spain"],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "question": "Which club has won the most English Premier League titles?",
+      "options": ["Manchester United", "Chelsea", "Arsenal", "Manchester City"],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "question": "Who is the top scorer in the history of La Liga?",
+      "options": [
+        "Lionel Messi",
+        "Cristiano Ronaldo",
+        "Telmo Zarra",
+        "Hugo Sanchez"
+      ],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "question": "Which player has won the most Copa America titles?",
+      "options": ["Lionel Messi", "Neymar Jr.", "Dani Alves", "Pelé"],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "question": "Who is the manager of the Liverpool FC?",
+      "options": [
+        "Thomas Tuchel",
+        "Jurgen Klopp",
+        "Pep Guardiola",
+        "Carlo Ancelotti"
+      ],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "question": "Which country has won the most FIFA Women's World Cup titles?",
+      "options": ["Germany", "United States", "Norway", "Japan"],
+      "correctOption": 1,
+      "points": 20
+    }
+  ],
+  "react": [
+    {
+      "question": "Which is the most popular JavaScript framework?",
+      "options": ["Angular", "React", "Svelte", "Vue"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Which company invented React?",
+      "options": ["Google", "Apple", "Netflix", "Facebook"],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "What's the fundamental building block of React apps?",
+      "options": ["Components", "Blocks", "Elements", "Effects"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "What's the name of the syntax we use to describe the UI in React components?",
+      "options": ["FBJ", "Babel", "JSX", "ES2015"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "How does data flow naturally in React apps?",
+      "options": [
+        "From parents to children",
+        "From children to parents",
+        "Both ways",
+        "The developers decides"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "How to pass data into a child component?",
+      "options": ["State", "Props", "PropTypes", "Parameters"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "When to use derived state?",
+      "options": [
+        "Whenever the state should not trigger a re-render",
+        "Whenever the state can be synchronized with an effect",
+        "Whenever the state should be accessible to all components",
+        "Whenever the state can be computed from another state variable"
+      ],
+      "correctOption": 3,
+      "points": 30
+    },
+    {
+      "question": "What triggers a UI re-render in React?",
+      "options": [
+        "Running an effect",
+        "Passing props",
+        "Updating state",
+        "Adding event listeners to DOM elements"
+      ],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "question": "When do we directly \"touch\" the DOM in React?",
+      "options": [
+        "When we need to listen to an event",
+        "When we need to change the UI",
+        "When we need to add styles",
+        "Almost never"
+      ],
+      "correctOption": 3,
+      "points": 20
+    },
+    {
+      "question": "In what situation do we use a callback to update state?",
+      "options": [
+        "When updating the state will be slow",
+        "When the updated state is very data-intensive",
+        "When the state update should happen faster",
+        "When the new state depends on the previous state"
+      ],
+      "correctOption": 3,
+      "points": 30
+    },
+    {
+      "question": "If we pass a function to useState, when will that function be called?",
+      "options": [
+        "On each re-render",
+        "Each time we update the state",
+        "Only on the initial render",
+        "The first time we update the state"
+      ],
+      "correctOption": 2,
+      "points": 30
+    },
+    {
+      "question": "Which hook to use for an API request on the component's initial render?",
+      "options": ["useState", "useEffect", "useRef", "useReducer"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Which variables should go into the useEffect dependency array?",
+      "options": [
+        "Usually none",
+        "All our state variables",
+        "All state and props referenced in the effect",
+        "All variables needed for clean up"
+      ],
+      "correctOption": 2,
+      "points": 30
+    },
+    {
+      "question": "An effect will always run on the initial render.",
+      "options": [
+        "True",
+        "It depends on the dependency array",
+        "False",
+        "In depends on the code in the effect"
+      ],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "question": "When will an effect run if it doesn't have a dependency array?",
+      "options": [
+        "Only when the component mounts",
+        "Only when the component unmounts",
+        "The first time the component re-renders",
+        "Each time the component is re-rendered"
+      ],
+      "correctOption": 3,
+      "points": 20
+    },
+    {
+      "question": "What is the purpose of the 'key' prop in React lists?",
+      "options": [
+        "To specify the order of elements in the list",
+        "To help React identify which items have changed, are added, or are removed",
+        "To define the styling for each element in the list",
+        "To provide a unique identifier for each element in the list"
+      ],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "question": "What is the key difference between React.Component and React.PureComponent?",
+      "options": [
+        "React.Component supports lifecycle methods, while React.PureComponent does not",
+        "React.PureComponent does shallow comparison of props and state before re-rendering",
+        "React.Component is deprecated in favor of React.PureComponent",
+        "React.PureComponent is used only for class components, while React.Component is used for functional components"
+      ],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "question": "What is the significance of the 'children' prop in React components?",
+      "options": [
+        "It defines the styling for child components",
+        "It passes data from parent to child components",
+        "It represents the content between the opening and closing tags of the component",
+        "It triggers a re-render of the component when its value changes"
+      ],
+      "correctOption": 2,
+      "points": 15
+    },
+    {
+      "question": "What is the purpose of React Fragments?",
+      "options": [
+        "To group multiple React elements without adding extra nodes to the DOM",
+        "To provide a way to import external libraries into React projects",
+        "To handle errors and exceptions in React components",
+        "To manage routing in React applications"
+      ],
+      "correctOption": 0,
+      "points": 15
+    },
+    {
+      "question": "When should you use React's Context API?",
+      "options": [
+        "When passing props through multiple levels of nested components becomes cumbersome",
+        "When handling asynchronous operations in React components",
+        "When styling components using CSS-in-JS libraries",
+        "When implementing routing in React applications"
+      ],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "question": "What is the purpose of React Router?",
+      "options": [
+        "To manage state in React components",
+        "To handle API requests within React components",
+        "To provide navigation and routing functionalities in React applications",
+        "To define global styles for React components"
+      ],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "question": "What is the role of PropTypes in React?",
+      "options": [
+        "To specify the data types of component props for type checking",
+        "To handle asynchronous operations in React components",
+        "To define the structure of a Redux store",
+        "To manage state transitions in React components"
+      ],
+      "correctOption": 0,
+      "points": 15
+    },
+    {
+      "question": "What is the purpose of React's useMemo hook?",
+      "options": [
+        "To memoize expensive computations so that they can be cached and reused",
+        "To handle side effects in React components",
+        "To manage form data in React applications",
+        "To synchronize state across multiple components"
+      ],
+      "correctOption": 0,
+      "points": 15
+    },
+    {
+      "question": "What does the term 'unidirectional data flow' mean in the context of React?",
+      "options": [
+        "Data flows only from child to parent components",
+        "Data flows only from parent to child components",
+        "Data flows bidirectionally between components",
+        "Data flows in a circular pattern within components"
+      ],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "question": "What is the purpose of React's useCallback hook?",
+      "options": [
+        "To memoize expensive computations so that they can be cached and reused",
+        "To handle side effects in React components",
+        "To manage form data in React applications",
+        "To memoize callback functions to prevent unnecessary re-renders"
+      ],
+      "correctOption": 3,
+      "points": 20
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+body {
+  font-family: emoji;
+}
+
+.app {
+  background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
+  color: black;
+  width: 100vw;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.header {
+  @apply mt-[2rem];
+  border-radius: 10px;
+  background-image: linear-gradient(150deg, #2772db 0%, #2772db 50%, white 50%);
+  background-size: 250%;
+  transition: all 0.8s;
+  color: white;
+  @apply text-[1.25rem] lg:text-[2rem] py-[.2rem];
+  text-align: center;
+}
+.header:hover {
+  color: black;
+  background-position: 100%;
+}
+
+.config-btn {
+  border-radius: 10px;
+  padding: 0.5rem 2rem;
+  color: rgb(255, 255, 255);
+  @apply bg-blue-500;
+}
+.config-btn.disable {
+  cursor: auto;
+  opacity: 0.5;
+  @apply bg-blue-500;
+}
+
+.start-btn {
+  border-radius: 10px;
+  padding: 0.5rem 1rem;
+  color: white;
+  @apply bg-slate-800;
+}
+.start-btn:hover {
+  transform: translateY(-2px);
+}
+
+.select {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  align-items: center;
+}
+.select .selection {
+  @apply flex flex-row gap-2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: black;
+}
+.select .selection p {
+  background-image: linear-gradient(90deg, transparent 0%, transparent 50%, #132743 50%);
+  transition: all 0.7s;
+  background-size: 250%;
+  font-size: 1.2rem;
+  color: black;
+  padding: 0.5rem 1rem;
+  border-radius: 10px;
+  margin-top: 0.5rem;
+}
+.select .selection p:hover {
+  color: white;
+  background-position: 100%;
+}
+.select .selection option {
+  background-color: white;
+}
+.select .selection select {
+  border-radius: 10px;
+  background-color: white;
+  padding: 0.5rem 1rem;
+}
+
+.start {
+  margin: 3rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.start .detail {
+  display: flex;
+  flex-direction: row-reverse;
+  gap: 1rem;
+}
+.start .show-Q {
+  background-image: linear-gradient(120deg, #070f4e 0%, #070f4e 50%, white 50%);
+  padding: 0.25rem 1rem;
+  border-radius: 5px;
+  color: white;
+  background-size: 250%;
+  transition: all 0.8s;
+  margin-bottom: 0.5rem;
+  @apply text-[1.2rem] lg:text-[1.75rem] text-center;
+}
+.start .show-Q:hover {
+  color: #070f4e;
+  background-position: 100%;
+}
+.start .show-O {
+  @apply grid grid-cols-1 gap-x-5 gap-y-3 text-[1.25rem]  text-center mt-3;
+}
+
+.option {
+  @apply bg-white py-2 px-6 w-[50vw] lg:w-[25vw] rounded-[10px];
+  transition: transform 0.5s;
+}
+.option:hover {
+  transform: translateX(10px);
+}
+
+.option.sel {
+  @apply bg-blue-500;
+  transform: translateX(10px);
+}
+
+.option.seltrue {
+  @apply bg-green-500;
+  transform: translateX(10px);
+}
+
+.option.selfalse {
+  @apply bg-red-500;
+  transform: translateX(10px);
+}
+
+.btn-NF {
+  font-size: 1.5rem;
+  border-radius: 5px;
+  margin-top: 1rem;
+  width: 20vw;
+  padding: 0.25rem 1.25rem;
+  background-color: black;
+  color: white;
+}/*# sourceMappingURL=style.css.map */

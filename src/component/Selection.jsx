@@ -1,58 +1,49 @@
 import { useState } from "react";
 
-function Selection({dispatch}) {
-
- 
-    const handlerClickStart=()=>{
-    
-        dispatch({type:'start'})
-
-      }
-
-      const [sub ,setSub]=useState(null)
-
-      const [num,setNum]=useState(null)
-      
-     
-
+function Selection({ dispatch }) {
+  const [sub, setSub] = useState("react");
+  const [num, setNum] = useState(5);
 
   return (
-   
-    <div className="select">
+    <form onSubmit={(e) => dispatch({ type: "start" })} className="select">
+      <div className="selection">
+        <p className="cursor-default">Choose the subject of the quiz :</p>
+        <select
+          onChange={(e) => setSub(e.target.value)}
+          className="cursor-pointer"
+        >
+          <option value="react">React Knowledge</option>
+          <option value="movie">Movie Knowledge</option>
+          <option value="football">Football Knowledge</option>
+        </select>
+      </div>
 
-<form onChange={(e)=>setSub(e.target.value)} className="selection">
-      <p>Choose the subject of the quiz :</p>
-      <select    name="">
-        <option value="react">React Knowledge</option>
-        <option value="movie">Movie Knowledge</option>
-        <option value="football">Football Knowledge</option>
+      <div className="selection">
+        <p className="cursor-default">Number of Questions :</p>
+        <select
+          onChange={(e) => setNum(e.target.value)}
+          className="cursor-pointer"
+        >
+          <option value="5">5</option>
+          <option value="10">10</option>
+          <option value="20">20</option>
+        </select>
+      </div>
 
-      </select>
+      <button
+        type="button"
+        disabled={(sub === "react") & (num == 5)}
+        className={`config-btn ${(sub === "react") & (num == 5) ? "disable" : ""}`}
+        onClick={(e) => dispatch({ type: "loading", payload: { sub, num } })}
+      >
+        Save Configuration
+      </button>
+
+      <button type="submit" className="start-btn">
+        Start Quiz
+      </button>
     </form>
-   
-
-    <form onChange={(e)=>setNum(e.target.value)} className="selection">
-      <p>Number of Questions :</p>
-      <select  name="">
-        <option value="5">5</option>
-        <option value="10">10</option>
-        <option value="20">20</option>
-
-      </select>
-    </form>
-
-    <button disabled={sub===null  || num==null}  className={`config-btn ${sub===null  || num==null ? 'disable' :''}`} onClick={(e)=>dispatch({type:'loading' , payload:{sub,num}} )}>Save Configuration</button>
-
-
-    <button className="start-btn" onClick={handlerClickStart}>Start Quiz</button>
-
-    </div>
   );
-
 }
 
-
 export default Selection;
-
-
- 

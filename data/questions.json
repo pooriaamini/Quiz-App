@@ -1,116 +1,110 @@
 {
   "movie": [
     {
-        "question": "Who composed the soundtrack for the movie 'The Lion King'?",
-        "options": [
-          "Hans Zimmer",
-          "John Williams",
-          "Alan Menken",
-          "Randy Newman"
-        ],
-        "correctOption": 0,
-        "points": 20
-      },
-      {
-        "question": "Which film features the iconic score composed by John Williams, known as the 'Imperial March'?",
-        "options": [
-          "Star Wars: Episode IV - A New Hope",
-          "Star Wars: Episode V - The Empire Strikes Back",
-          "Star Wars: Episode VI - Return of the Jedi",
-          "Star Wars: Episode VII - The Force Awakens"
-        ],
-        "correctOption": 1,
-        "points": 20
-      },
-      {
-        "question": "Who composed the soundtrack for the film 'Jurassic Park'?",
-        "options": [
-          "Hans Zimmer",
-          "John Williams",
-          "Ennio Morricone",
-          "James Horner"
-        ],
-        "correctOption": 1,
-        "points": 20
-      },
-      {
-        "question": "Which movie features the song 'My Heart Will Go On' by Celine Dion?",
-        "options": [
-          "Titanic",
-          "The Shawshank Redemption",
-          "Forrest Gump",
-          "Braveheart"
-        ],
-        "correctOption": 0,
-        "points": 20
-      },
-      {
-        "question": "Who composed the score for the film 'The Lord of the Rings: The Two Towers'?",
-        "options": [
-          "Hans Zimmer",
-          "John Williams",
-          "Howard Shore",
-          "Alan Silvestri"
-        ],
-        "correctOption": 2,
-        "points": 20
-      },
-      {
-        "question": "Which film features the song 'Eye of the Tiger' by Survivor?",
-        "options": [
-          "Rocky",
-          "Top Gun",
-          "Dirty Dancing",
-          "The Karate Kid"
-        ],
-        "correctOption": 0,
-        "points": 20
-      },
-      {
-        "question": "Who composed the soundtrack for the film 'Inception'?",
-        "options": [
-          "Hans Zimmer",
-          "John Williams",
-          "Ennio Morricone",
-          "James Horner"
-        ],
-        "correctOption": 0,
-        "points": 20
-      },
-      {
-        "question": "Which movie features the iconic song 'Don't You (Forget About Me)' by Simple Minds?",
-        "options": [
-          "The Breakfast Club",
-          "Ferris Bueller's Day Off",
-          "Sixteen Candles",
-          "Pretty in Pink"
-        ],
-        "correctOption": 0,
-        "points": 20
-      },
-      {
-        "question": "Who composed the score for the film 'Pirates of the Caribbean: The Curse of the Black Pearl'?",
-        "options": [
-          "Hans Zimmer",
-          "John Williams",
-          "Howard Shore",
-          "Alan Silvestri"
-        ],
-        "correctOption": 0,
-        "points": 20
-      },
-      {
-        "question": "Which film features the iconic score composed by Ennio Morricone, known as 'The Ecstasy of Gold'?",
-        "options": [
-          "The Good, the Bad and the Ugly",
-          "Once Upon a Time in the West",
-          "A Fistful of Dollars",
-          "For a Few Dollars More"
-        ],
-        "correctOption": 0,
-        "points": 20
-      }
-    ,
+      "question": "Who composed the soundtrack for the movie 'The Lion King'?",
+      "options": [
+        "Hans Zimmer",
+        "John Williams",
+        "Alan Menken",
+        "Randy Newman"
+      ],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "question": "Which film features the iconic score composed by John Williams, known as the 'Imperial March'?",
+      "options": [
+        "Star Wars: Episode IV - A New Hope",
+        "Star Wars: Episode V - The Empire Strikes Back",
+        "Star Wars: Episode VI - Return of the Jedi",
+        "Star Wars: Episode VII - The Force Awakens"
+      ],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "question": "Who composed the soundtrack for the film 'Jurassic Park'?",
+      "options": [
+        "Hans Zimmer",
+        "John Williams",
+        "Ennio Morricone",
+        "James Horner"
+      ],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "question": "Which movie features the song 'My Heart Will Go On' by Celine Dion?",
+      "options": [
+        "Titanic",
+        "The Shawshank Redemption",
+        "Forrest Gump",
+        "Braveheart"
+      ],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "question": "Who composed the score for the film 'The Lord of the Rings: The Two Towers'?",
+      "options": [
+        "Hans Zimmer",
+        "John Williams",
+        "Howard Shore",
+        "Alan Silvestri"
+      ],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "question": "Which film features the song 'Eye of the Tiger' by Survivor?",
+      "options": ["Rocky", "Top Gun", "Dirty Dancing", "The Karate Kid"],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "question": "Who composed the soundtrack for the film 'Inception'?",
+      "options": [
+        "Hans Zimmer",
+        "John Williams",
+        "Ennio Morricone",
+        "James Horner"
+      ],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "question": "Which movie features the iconic song 'Don't You (Forget About Me)' by Simple Minds?",
+      "options": [
+        "The Breakfast Club",
+        "Ferris Bueller's Day Off",
+        "Sixteen Candles",
+        "Pretty in Pink"
+      ],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "question": "Who composed the score for the film 'Pirates of the Caribbean: The Curse of the Black Pearl'?",
+      "options": [
+        "Hans Zimmer",
+        "John Williams",
+        "Howard Shore",
+        "Alan Silvestri"
+      ],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "question": "Which film features the iconic score composed by Ennio Morricone, known as 'The Ecstasy of Gold'?",
+      "options": [
+        "The Good, the Bad and the Ugly",
+        "Once Upon a Time in the West",
+        "A Fistful of Dollars",
+        "For a Few Dollars More"
+      ],
+      "correctOption": 0,
+      "points": 20
+    },
     {
       "question": "Who directed the 1994 film 'Pulp Fiction'?",
       "options": [
@@ -572,7 +566,7 @@
     },
     {
       "question": "What's the name of the syntax we use to describe the UI in React components?",
-      "options": ["FBJ", "Babel", "JSX", "ES2015"],
+      "options": ["FBJ", "Babel", "JSX or TSX", "ES2015"],
       "correctOption": 2,
       "points": 10
     },

@@ -27,8 +27,9 @@ Before you begin, ensure you have the following installed:
 ## Demo
 
 ![Screenshot of Home Page](1.png)
-![Screenshot of Question Screen](2.png)
+
 ![Screenshot of Question Screen after it has been Answered](3.png)
+
 
 ## ⚙️ Installation and Running
 
@@ -44,13 +45,6 @@ Before you begin, ensure you have the following installed:
 ```bash
    npm install
 ```
-
-3. Start the JSON Server:(Assumes data is stored in db.json):
-
-```bash
-   npm run server
-```
-
 3. Start the JSON Server and the React App:(Assumes data is stored in db.json):
 
 ```bash

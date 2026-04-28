@@ -25,10 +25,8 @@ Before you begin, ensure you have the following installed:
 ---
 
 ## Demo
-
-![Screenshot of Home Page](1.png)
-
-![Screenshot of Question Screen after it has been Answered](3.png)
+![Screenshot of Home Page](public/Screenshot1.png)
+![Screenshot of Question Screen after it has been Answered](public/Screenshot3.png)
 
 
 ## ⚙️ Installation and Running
